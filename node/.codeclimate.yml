@@ -1,0 +1,5 @@
+plugins:
+  eslint:
+    enabled: true
+    config:
+      config: https://raw.githubusercontent.com/salimkayabasi/codeclimate-config/master/node/.eslintrc.yml
